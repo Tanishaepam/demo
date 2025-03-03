@@ -4,4 +4,3 @@ this is a line
 this is another
 
 this is 5th line
-this is 6th line
